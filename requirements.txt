@@ -1,0 +1,16 @@
+pydantic==2.11.7
+pydantic-settings==2.10.1
+pydantic_core==2.33.2
+python-dotenv==1.1.1
+dotenv==0.9.9
+fastapi==0.116.1
+typing-inspection==0.4.1
+typing_extensions==4.15.0
+uvicorn==0.35.0
+openai==2.8.1
+readability-lxml==0.8.4.1
+requests==2.32.5 
+beautifulsoup4==4.14.2 
+langdetect==1.0.9 
+langchain==1.1.0
+langchain-openai==1.1.0
